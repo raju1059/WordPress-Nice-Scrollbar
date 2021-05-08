@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Scrollbar v2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-01-01 01:08+0600\n"
+"Last-Translator: a <a@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:8
+msgid ""
+" You can change the scrollbar color from here.The default scrollbar #1E73BE."
+msgstr ""
+"আপনি এখান থেকে স্ক্রলবার এর কালার পরিবর্তন করতে পারবেন । ডিফাল্ট:  #1E73BE."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:20
+msgid ""
+"You can change the scrollbar width  here.The default scrollbar width is "
+"10px. "
+msgstr "আপনি এখান থেকে স্ক্রলবার এর ওয়াইড পরিবর্তন  করতে পারবেন । ডিফাল্ট:  10px."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:32
+msgid ""
+"You can change the scrollbar border radius .The default border radius is 4px."
+msgstr ""
+"আপনি এখান থেকে স্ক্রলবার এর বর্ডার রেডিয়াস  পরিবর্তন  করতে পারবেন । ডিফাল্ট:  "
+"10px."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:45
+msgid ""
+"You can change the Scrollbar auto hide   . Default option is enable auto  "
+"mode hide.  "
+msgstr ""
+"আপনি এখান থেকে স্ক্রলবার এর অটোমেটিক লুকানো পরিবর্তন করতে পারবেন । ডিফাল্ট:  "
+"অটোমেটিক লুকানো ."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:55
+msgid ""
+"You can change the scrollbar border style . The default border style is 1px "
+"solid #fff. "
+msgstr ""
+"আপনি এখান থেকে স্ক্রলবার এর বর্ডার স্টাইল পরিবর্তন করতে পারবেন । ডিফাল্ট:  1px "
+"solid #fff. "
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:66
+msgid ""
+"You can change the scrollbar speed  here.The default scrollbar speed value "
+"is 60. "
+msgstr "আপনি এখান থেকে স্ক্রলবার এর স্পিড নিয়ন্ত্রন করতে পারবেন । ডিফাল্ট: 60. "
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:78
+msgid "You can enable the horizontal scrollbar from here. Default is enable. "
+msgstr "আপনি এখান থেকে অনুভুমিক স্ক্রলবার নিয়ন্ত্রন করতে পারবেন । ডিফাল্ট:  চালু. "
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:88
+msgid ""
+"  You can change the scrollbar touch behaviour. The default is Disable Touch "
+"Behaviour. "
+msgstr ""
+"আপনি এখান থেকে স্ক্রলবার এর স্পর্শ বৈশিষ্ট্য  নিয়ন্ত্রন করতে পারবেন । ডিফাল্ট:  চালু. "
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:98
+msgid "YES, I LIKE"
+msgstr "হাঁ, পছন্দ"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:99
+msgid "NO, DISLIKE"
+msgstr "না , পছন্দ না"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:101
+msgid "If you like to show scrollbar in admin area select YES.Default NO. "
+msgstr ""
+"আপনি এখান থেকে প্লাগইন এডমিন এরিয়ার  স্ক্রলবার নিয়ন্ত্রন করতে পারবেন । ডিফাল্ট:  "
+"চালু নেই। "
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:103
+msgid "WP Scrollbar"
+msgstr "ওয়াপ স্ক্রলবার"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:117
+msgid "WordPress Scrollbar Settings"
+msgstr "ওয়ার্ডপ্রেস স্ক্রলবার সেটিং"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:175
+msgid "Donate"
+msgstr "দান"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:43
+msgid "Enable Auto Mode Hide Scrollbar"
+msgstr "লুকানো চালু করুন"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:44
+msgid "Disable Auto Mode Hide Scrollbar "
+msgstr "লুকানো বন্ধ করুন"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:76
+msgid " Enable Auto Horizontal Scrollbar"
+msgstr " অনুভুমিক স্ক্রলবার  চালু করুন"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:77
+msgid " Disable Horizontal Scrollbar "
+msgstr " অনুভুমিক স্ক্রলবার  বন্ধ করুন"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:86
+msgid " Enable Touch Behaviour Scrollbar "
+msgstr " স্ক্রলবার এর স্পর্শ বৈশিষ্ট্য চালু করুন"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:87
+msgid "Disable Touch Behaviour  Scrollbar"
+msgstr " স্ক্রলবার এর স্পর্শ বৈশিষ্ট্য বন্ধ করুন"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:120
+msgid " Custom Color"
+msgstr "কাস্টম কালার"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:125
+msgid "Scrollbar Width "
+msgstr "স্ক্রলবার প্রস্থ  "
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:130
+msgid " Border Radius "
+msgstr "বর্ডার রেডিয়াস"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:134
+msgid "Visibility Settings"
+msgstr "স্ক্রলবার  দেখানোর সেটিং"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:138
+msgid " Border Style "
+msgstr "বর্ডার স্টাইল"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:142
+msgid "Scrollbar Speed "
+msgstr "স্ক্রলবার দ্রুতি"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:146
+msgid " Horizontal Scrollbar "
+msgstr "অনুভুমিক  স্ক্রলবার "
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:151
+msgid " Touch Behaviour"
+msgstr "স্পর্শ  বৈশিষ্ট্য"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:156
+msgid "Admin Scrollbar"
+msgstr "এডমিন এরিয়া স্ক্রলবার "

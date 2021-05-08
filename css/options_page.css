@@ -1,0 +1,60 @@
+.webcode-scrollbar-inputfield input[type="text"],
+.webcode-scrollbar-inputfield  input[type="password"],
+.webcode-scrollbar-inputfield input[type="checkbox"], 
+.webcode-scrollbar-inputfield input[type="color"], 
+.webcode-scrollbar-inputfield  input[type="date"], 
+.webcode-scrollbar-inputfield input[type="datetime"], 
+.webcode-scrollbar-inputfield input[type="datetime-local"],
+.webcode-scrollbar-inputfield input[type="email"], 
+.webcode-scrollbar-inputfield input[type="month"], 
+.webcode-scrollbar-inputfield  input[type="number"], 
+.webcode-scrollbar-inputfield input[type="password"], 
+.webcode-scrollbar-inputfield input[type="search"], 
+.webcode-scrollbar-inputfield input[type="radio"], 
+.webcode-scrollbar-inputfield input[type="tel"], 
+.webcode-scrollbar-inputfield input[type="text"], 
+.webcode-scrollbar-inputfield input[type="time"], 
+.webcode-scrollbar-inputfield input[type="url"], 
+.webcode-scrollbar-inputfield input[type="week"], 
+.webcode-scrollbar-inputfield select,
+.webcode-scrollbar-inputfield  textarea {
+	border-radius: 2px;
+	width: 25%;
+	border:1px solid #ddd;
+}
+.spansmallfieldwebcode {
+	font-size: 11px;
+	font-style: italic;
+}
+.webcode-scrollbar-inputfield.form-table,
+.form-table td, 
+.form-table th,
+.form-table td p, 
+.form-wrap label {
+	font-size: 12px;
+	padding: 2px !important;
+}
+.form-table, 
+.form-table td,
+.form-table td p,
+.form-table th,
+.form-wrap label {
+	font-size: 12px;
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+.form-webcode h3 {
+	background: linear-gradient(to bottom, #2a95c5 0%, #21759b 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	color: #fff;
+	font-size: 18px;
+	margin-left: -6px !important;
+	margin-top: -7px;
+	padding: 6px 0 9px 12px;
+	width: 100% !important;
+}
+
+.webcode-scrollbar {
+  padding: 7px 5px 0 5px;
+}
+}

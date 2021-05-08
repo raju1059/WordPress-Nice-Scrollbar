@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Scrollbar v2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-27 18:08+0600\n"
+"Last-Translator: a <a@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:8
+msgid ""
+" You can change the scrollbar color from here.The default scrollbar #1E73BE."
+msgstr ""
+"U kunt de schuifbalk kleur uit here.The standaard scrollbar # 1E73BE "
+"veranderen."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:20
+msgid ""
+"You can change the scrollbar width  here.The default scrollbar width is "
+"10px. "
+msgstr ""
+"U kunt wijzigen van de scrollbar breedte here.The standaard scrollbar "
+"breedte is 10px."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:32
+msgid ""
+"You can change the scrollbar border radius .The default border radius is 4px."
+msgstr ""
+"U kunt de schuifbalk grens straal .De standaard grens straal is 4px "
+"veranderen."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:45
+msgid ""
+"You can change the Scrollbar auto hide   . Default option is enable auto  "
+"mode hide.  "
+msgstr ""
+"U kunt de schuifbalk Automatisch verbergen veranderen. Standaardoptie is in "
+"staat de automatische stand te verbergen."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:55
+msgid ""
+"You can change the scrollbar border style . The default border style is 1px "
+"solid #fff. "
+msgstr ""
+"U kunt de schuifbalk grens stijl te veranderen. De standaard border stijl "
+"1px solid #fff."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:66
+msgid ""
+"You can change the scrollbar speed  here.The default scrollbar speed value "
+"is 60. "
+msgstr ""
+"U kunt wijzigen van de scrollbar snelheid here.The standaard scrollbar "
+"snelheid is 60."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:78
+msgid "You can enable the horizontal scrollbar from here. Default is enable. "
+msgstr ""
+"U kunt de horizontale scrollbar mogelijk vanaf hier. Standaard is mogelijk."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:88
+msgid ""
+"  You can change the scrollbar touch behaviour. The default is Disable Touch "
+"Behaviour. "
+msgstr ""
+"U kunt de schuifbalk aanraking gedrag te veranderen. De standaard is "
+"Uitschakelen Raak Behaviour."
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:98
+msgid "YES, I LIKE"
+msgstr "JA, IK HOU VAN"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:99
+msgid "NO, DISLIKE"
+msgstr "NO, afkeer"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:101
+msgid "If you like to show scrollbar in admin area select YES.Default NO. "
+msgstr ""
+"Als u willen laten zien scrollbar in admin gebied te selecteren YES.Default "
+"NO."
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:103
+msgid "WP Scrollbar"
+msgstr "WP Scrollbar"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:117
+msgid "WordPress Scrollbar Settings"
+msgstr "WordPress Scrollbar Instellingen"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:175
+msgid "Donate"
+msgstr "schenken"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:43
+msgid "Enable Auto Mode Hide Scrollbar"
+msgstr "Enable Auto Mode verbergen Scrollbar"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:44
+msgid "Disable Auto Mode Hide Scrollbar "
+msgstr "Uitschakelen Auto Mode verbergen Scrollbar"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:76
+msgid " Enable Auto Horizontal Scrollbar"
+msgstr "Enable Auto Horizontale Scrollbar"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:77
+msgid " Disable Horizontal Scrollbar "
+msgstr "Uitschakelen Horizontale Scrollbar"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:86
+msgid " Enable Touch Behaviour Scrollbar "
+msgstr "Enable Touch Gedrag Scrollbar"
+
+# @ wbcode_scrollbar
+#: class-wp-scrollbar-field.php:87
+msgid "Disable Touch Behaviour  Scrollbar"
+msgstr "Uitschakelen Touch Gedrag Scrollbar"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:120
+msgid " Custom Color"
+msgstr "Custom Color"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:125
+msgid "Scrollbar Width "
+msgstr "scrollbar Breedte"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:130
+msgid " Border Radius "
+msgstr "grens Radius"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:134
+msgid "Visibility Settings"
+msgstr "zichtbaarheid Instellingen"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:138
+msgid " Border Style "
+msgstr "border Style"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:142
+msgid "Scrollbar Speed "
+msgstr "scrollbar Speed"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:146
+msgid " Horizontal Scrollbar "
+msgstr "horizontale Scrollbar"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:151
+msgid " Touch Behaviour"
+msgstr "Touch gedrag"
+
+# @ wbcode_scrollbar
+#: wp-nicescrollbar-webcode.php:156
+msgid "Admin Scrollbar"
+msgstr "admin Scrollbar"
